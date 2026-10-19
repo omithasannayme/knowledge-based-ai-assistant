@@ -56,3 +56,7 @@ Python, HTML, CSS, Ollama with the gemma4:cloud
 ## Project Demo Video
 
 
+
+https://github.com/user-attachments/assets/4439e08b-673a-4a36-8b4a-79d3af71dbe3
+
+
